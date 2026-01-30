@@ -15,9 +15,11 @@ Reference tutorial:
 
 [![Video Title](https://img.youtube.com/vi/aDHYiCxRZ-c/sddefault.jpg)](https://www.youtube.com/watch?v=aDHYiCxRZ-c)
 
-Additional tutorial for custom board outlines:
+Additional tutorial for custom board outlines (SEE CORRECTION AFTER THIS VIDEO):
 
 [![Video Title](https://img.youtube.com/vi/fYuy1Yf_eXA/sddefault.jpg)](https://www.youtube.com/watch?v=fYuy1Yf_eXA)
+
+CORRECTION TO PREVIOUS VIDEO: I neglected to say that when you're importing you custom board outline .svg file, you must select the layer as "Edge.cuts" in the same pop-up window as you set the scaling. I left the layer as "User.drawings". Please see the image below on where to select the layer.
 
 # Step 2: Convert KiCAD Gerber and Drill Files to CNC Friendly SVGs
 
