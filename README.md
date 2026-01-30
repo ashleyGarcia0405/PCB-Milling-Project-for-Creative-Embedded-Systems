@@ -21,6 +21,8 @@ Additional tutorial for custom board outlines (SEE CORRECTION AFTER THIS VIDEO):
 
 CORRECTION TO PREVIOUS VIDEO: I neglected to say that when you're importing you custom board outline .svg file, you must select the layer as "Edge.cuts" in the same pop-up window as you set the scaling. I left the layer as "User.drawings". Please see the image below on where to select the layer.
 
+   ![Screenshot](./images/BoardOutlineLayerSelect.png)
+
 # Step 2: Convert KiCAD Gerber and Drill Files to CNC Friendly SVGs
 
 # Step 3: Mill Your PCB On The Carvey CNC
