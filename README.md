@@ -11,6 +11,8 @@ Detailed tutorial:
 
 [![Video Title](https://img.youtube.com/vi/kU7-52KIdco/sddefault.jpg)](https://www.youtube.com/watch?v=kU7-52KIdco)
 
+NOTE: Please remember when you're doing your board layout to have your design fit well within the bounds of 152mm x 106mm (your design will most likely be much smaller than this, but just in case you're feeling experimental), which is the maximum size of the copper board you have to work with. 
+
 Reference tutorial:
 
 [![Video Title](https://img.youtube.com/vi/aDHYiCxRZ-c/sddefault.jpg)](https://www.youtube.com/watch?v=aDHYiCxRZ-c)
