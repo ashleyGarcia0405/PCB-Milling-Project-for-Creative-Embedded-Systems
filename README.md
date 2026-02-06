@@ -38,3 +38,7 @@ In this step, we use the .svg files we generated in Step 2 to mill our PCB on th
 [![Video Title](https://img.youtube.com/vi/hbWzbn1Lfh0/sddefault.jpg)](https://www.youtube.com/watch?v=hbWzbn1Lfh0)
 
 # Step 4: Solder Components to Your Milled PCB
+
+In the tutorial for this step, we choose component values to control our LED flashing frequency, and talk about techniques for soldering your components to your milled circuit board. Please note that due to voltage limitations of the CR2032 coin cell battery, we can only use red and yellow LEDs. Also we are using ceramic capacitors, NOT electrolytic. If you're confused what I mean, please refer to the two boxes in which I retrieve capacitors from in the video.
+
+[![Video Title](https://img.youtube.com/vi/2ELSfMe3PyI/sddefault.jpg)](https://www.youtube.com/watch?v=2ELSfMe3PyI)
